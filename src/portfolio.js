@@ -26,7 +26,7 @@ const greeting = {
     "I am a computer science student at MTU learning about data science and github!"
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1D3Ja-XBD355Q4-5JwmmQ9WUD_BSdBNW75U5-ZrvxNF8/edit?usp=sharing", // Set to empty to hide the button
+    "src/containers/greeting/Resume - Parker Bauer (2).pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
