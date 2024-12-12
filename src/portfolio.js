@@ -226,7 +226,7 @@ const achievementSection = {
           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
-    },
+    }
 
   display: true // Set false to hide this section, defaults to true
 };
