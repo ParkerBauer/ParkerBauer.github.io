@@ -46,7 +46,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "About Me:",
-  subTitle: "I am a first year computer science student at Michigan Tech. Outside of coding I love snowboarding and hiking, really anything outdoors. I love coding and how it lets me be creative but also use skills like problem solving and engineering.",
+  subTitle: "I am a first year computer science student at Michigan Tech. Outside of coding I love snowboarding and hiking, really anything outdoors. I love coding and how it lets me be creative but also use skills like problem solving and engineering. I am experinced in Java, Git, bin/bash, linux, and much more.",
   skills: [
     emoji(
       "⚡ Lots of studing. Of Course!"
@@ -161,7 +161,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -203,14 +203,14 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Card Games",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "One of my favorite projects I made was a Card Game program. I made it with Java and JavaFX. It lets you play games like BlackJack or Euchore. To play visit my GitHub!",
+      image: require("./assets/images/Senor Pic.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -227,35 +227,8 @@ const achievementSection = {
         }
       ]
     },
-    {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
 
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
-  ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
