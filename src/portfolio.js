@@ -90,7 +90,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Michigan Tech",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/full-color.png"),
       subHeader: "Bachlors of Science in Computer Science",
       duration: "August 2024 - April 2028",
       desc: "Currently a freshmen and expected graduation is April 2024.\n Current Classes: ",
