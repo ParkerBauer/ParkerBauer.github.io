@@ -201,28 +201,28 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Who am I?"),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "I am an 18 year old beginier programer, but I am a hard worker and can finish anything I put my mind too!",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "",
       image: require("./assets/images/Senor Pic.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
-          name: "Certification",
+          name: "Hardworking",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         },
         {
-          name: "Award Letter",
+          name: "Ambitious",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
         },
         {
-          name: "Google Code-in Blog",
+          name: "Creative",
           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
