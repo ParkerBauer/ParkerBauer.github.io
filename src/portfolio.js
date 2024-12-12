@@ -45,8 +45,8 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "I make small projects in my free time like a card game program in JavaFX",
+  title: "About Me:",
+  subTitle: "I am a first year computer science student at Michigan Tech. Outside of coding I love snowboarding and hiking, really anything outdoors. I love coding and how it lets me be creative but also use skills like problem solving and engineering.",
   skills: [
     emoji(
       "⚡ Lots of studing. Of Course!"
@@ -57,30 +57,11 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
+        {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
+    
     {
       skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
@@ -89,25 +70,14 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
+    
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -123,10 +93,10 @@ const educationInfo = {
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Bachlors of Science in Computer Science",
       duration: "August 2024 - April 2028",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Currently a freshmen and expected graduation is April 2024.\n Current Classes: ",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Intro to Data Science: Data 1201",
+        "Intro to Computer Science II: CS 1122"
       ]
     },
   ]
