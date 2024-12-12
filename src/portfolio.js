@@ -215,15 +215,15 @@ const achievementSection = {
       footerLink: [
         {
           name: "Hardworking",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: ""
         },
         {
           name: "Ambitious",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: ""
         },
         {
           name: "Creative",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          url: ""
         }
       ]
     }
