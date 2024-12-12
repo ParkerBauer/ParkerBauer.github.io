@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "Parker Bauer",
   title: "Hi all, I'm Parker Bauer",
   subTitle: emoji(
     "I am a computer science student at MTU learning about data science and github!"
